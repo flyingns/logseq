@@ -1,2 +1,9 @@
 * TODO logseq 笔记法
-*
+:PROPERTIES:
+:doing: 1625961755997
+:todo: 1625961762548
+:END:
+* [[我的長期目標]]
+:PROPERTIES:
+:later: 1625962731642
+:END:

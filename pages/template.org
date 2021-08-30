@@ -1,5 +1,4 @@
-*
-TODO  :工作日志:
+* TODO [] :工作日志:
 :PROPERTIES:
 :organization: 
 :END:

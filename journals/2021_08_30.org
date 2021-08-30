@@ -36,12 +36,3 @@
 :organization: 财富广场
 :END:
 明日淮安区移动用。
-* DONE [1212] :工作日志:
-:PROPERTIES:
-:done: 1630333565144
-:organization: 111
-:END:
-* TODO 维护:  :工作日志:
-:PROPERTIES:
-:organization: 
-:END:

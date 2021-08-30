@@ -17,7 +17,7 @@
 :organization: 移动市公司
 :END:
 无线投屏器 1 件；usb 无线网卡 2 件；usb 一拖四 HUB 2件。
-* DONE 维护：移动物流采购中心戚莎 OA 故障 :工作日志:
+* DONE 维护：物流采购中心戚莎 OA 故障 :工作日志:
 :PROPERTIES:
 :doing: 1630320435887
 :done: 1630320827910

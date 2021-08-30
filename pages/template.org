@@ -1,4 +1,5 @@
 * TODO [] :工作日志:
 :PROPERTIES:
 :organization: 
+:template: 工作日志记录
 :END:

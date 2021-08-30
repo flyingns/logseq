@@ -32,7 +32,12 @@
 :END:
 * DONE 进货：5 口交换机，usb 无线网卡等 :工作日志:
 :PROPERTIES:
-:organization: 财富广场
 :done: 1630320829999
+:organization: 财富广场
 :END:
 明日淮安区移动用。
+* DONE [1212] :工作日志:
+:PROPERTIES:
+:organization: 111
+:done: 1630333565144
+:END:

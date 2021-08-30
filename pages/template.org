@@ -1,5 +1,5 @@
-* TODO [] :工作日志:
+* TODO [维护] :工作日志:
 :PROPERTIES:
 :organization: 
-:template: 工作日志记录
+:template: 工作日志记录[维护]
 :END:

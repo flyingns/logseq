@@ -1,0 +1,13 @@
+* {{query (and (todo todo) (between +7d today) [[工作]])}}
+:PROPERTIES:
+:query-sort-by: block
+:query-table: true
+:query-sort-desc: true
+:END:
+* {{query (property organization (移动市公司,社区)(between +7d today)}}
+:PROPERTIES:
+:query-sort-by: block
+:query-table: true
+:query-sort-desc: true
+:END:
+*

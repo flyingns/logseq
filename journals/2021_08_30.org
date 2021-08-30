@@ -5,19 +5,19 @@
 :todo: 1630319843259
 :organization: 广发银行
 :END:
-* DONE 送货：夏普碳粉 2 支 :工作日志:
+* DONE 送货: 夏普碳粉 2 支 :工作日志:
 :PROPERTIES:
-:organization: 爱涛物业
 :done: 1630320826487
+:organization: 爱涛物业
 :END:
 爱涛一工作人员认出了我，我倒是没想起来她是谁，囧。
-* DONE 送货：无线投屏器等 :工作日志:
+* DONE 送货: 无线投屏器等 :工作日志:
 :PROPERTIES:
 :done: 1630320827207
 :organization: 移动市公司
 :END:
 无线投屏器 1 件；usb 无线网卡 2 件；usb 一拖四 HUB 2件。
-* DONE 维护：物流采购中心戚莎 OA 故障 :工作日志:
+* DONE 维护: 物流采购中心戚莎 OA 故障 :工作日志:
 :PROPERTIES:
 :doing: 1630320435887
 :done: 1630320827910
@@ -25,12 +25,12 @@
 :organization: 移动市公司
 :END:
 上次新电脑安装遗留的问题，综合今日故障，大概率是她本人胡折腾导致的问题！
-* DONE 送货：打印耗材等 #赵尊倍 :工作日志:
+* DONE 送货: 打印耗材等 #赵尊倍 :工作日志:
 :PROPERTIES:
-:organization: 银保监局
 :done: 1630320828815
+:organization: 银保监局
 :END:
-* DONE 进货：5 口交换机，usb 无线网卡等 :工作日志:
+* DONE 进货: 5 口交换机，usb 无线网卡等 :工作日志:
 :PROPERTIES:
 :done: 1630320829999
 :organization: 财富广场

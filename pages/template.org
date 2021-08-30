@@ -3,4 +3,8 @@
 :organization: 
 :template: 工作日志记录[维护]
 :END:
-* TODO 送货:  :
+* TODO 送货:  :工作日志:
+:PROPERTIES:
+:organization: 
+:template: 工作日志记录[]送货
+:END:

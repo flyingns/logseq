@@ -16,7 +16,8 @@
 :organization: 移动市公司
 :END:
 VGA 转 HDMI 转接头
-* TODO 维护:  :工作日志:
+* TODO 维护: 淮安区电脑 :工作日志:
 :PROPERTIES:
-:organization: 
+:organization: 移动淮安区
 :END:
+车桥 1 台4A 故障；淮安分公司

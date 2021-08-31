@@ -15,3 +15,8 @@
 :PROPERTIES:
 :organization: 移动市公司
 :END:
+VGA 转 HDMI 转接头
+* TODO 维护:  :工作日志:
+:PROPERTIES:
+:organization: 
+:END:

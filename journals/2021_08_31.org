@@ -7,7 +7,7 @@
 :organization: 
 :END:
 绿联 USB HUB 1 件；tp usb 无线网卡 1 件。
-* TODO 拿货:  :工作日志:
+* TODO 拿货: VGA 转 HDMI 转接头 :工作日志:
 :PROPERTIES:
-:organization: 
+:organization: 三益
 :END:

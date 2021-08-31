@@ -8,3 +8,7 @@
 :organization: 
 :template: 工作日志记录[送货]
 :END:
+* TODO 拿货:  :工作日志:
+:PROPERTIES:
+:organization: 
+:END:

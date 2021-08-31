@@ -1,23 +1,28 @@
-* TODO 维护: 集团部打印机故障 :工作日志:
+* DONE 维护: 集团部打印机故障 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:done: 1630406970005
 :END:
-* TODO 送货: 综合部 :工作日志:
+* DONE 送货: 综合部 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:done: 1630406970902
 :END:
 绿联 USB HUB 1 件；tp usb 无线网卡 1 件。
-* TODO 拿货: VGA 转 HDMI 转接头 :工作日志:
+* DONE 拿货: VGA 转 HDMI 转接头 :工作日志:
 :PROPERTIES:
 :organization: 三益
+:done: 1630406972086
 :END:
-* TODO 送货: 综合部 :工作日志:
+* DONE 送货: 综合部 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:done: 1630406974975
 :END:
 VGA 转 HDMI 转接头
-* TODO 维护: 淮安区电脑 :工作日志:
+* DONE 维护: 淮安区电脑 :工作日志:
 :PROPERTIES:
 :organization: 移动淮安区
+:done: 1630406975878
 :END:
-车桥 1 台4A 故障；淮安分公司
+车桥 1 台4A 故障；淮安分公司集团部网络故障 2台。

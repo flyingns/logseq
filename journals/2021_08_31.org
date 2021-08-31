@@ -20,9 +20,9 @@
 :done: 1630406974975
 :END:
 VGA 转 HDMI 转接头
-* DONE 维护: 淮安区电脑 :工作日志:
+* DONE 维护: 淮安区电脑 #张鑫 :工作日志:
 :PROPERTIES:
-:organization: 移动淮安区
 :done: 1630406975878
+:organization: 移动淮安区
 :END:
 车桥 1 台4A 故障；淮安分公司集团部网络故障 2台。

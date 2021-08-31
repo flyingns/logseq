@@ -4,10 +4,14 @@
 :END:
 * TODO 送货: 综合部 :工作日志:
 :PROPERTIES:
-:organization: 
+:organization: 移动市公司
 :END:
 绿联 USB HUB 1 件；tp usb 无线网卡 1 件。
 * TODO 拿货: VGA 转 HDMI 转接头 :工作日志:
 :PROPERTIES:
 :organization: 三益
+:END:
+* TODO 送货: 综合部 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
 :END:

@@ -6,3 +6,5 @@
 :PROPERTIES:
 :organization: 
 :END:
+绿联 USB HUB 1 件；tp usb 无线网卡 1 件。
+*

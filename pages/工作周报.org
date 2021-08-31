@@ -1,5 +1,3 @@
-#+PUBLIC: true
-
 * 本周工作总结
 :PROPERTIES:
 :END:

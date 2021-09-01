@@ -1,15 +1,18 @@
 * TODO 维护:  :工作日志:
 :PROPERTIES:
 :organization: 
+:user:
 :template: 工作日志记录[维护]
 :END:
 * TODO 送货:  :工作日志:
 :PROPERTIES:
 :organization: 
+:user: 
 :template: 工作日志记录[送货]
 :END:
 * TODO 拿货:  :工作日志:
 :PROPERTIES:
 :organization: 
+:user: 
 :template: 工作日志记录[拿货]
 :END:

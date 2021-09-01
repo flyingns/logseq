@@ -3,6 +3,6 @@
 :END:
 ** {{query (and (todo done) (between -7d today) [[工作日志]])}}
 :PROPERTIES:
-:query-table: false
+:query-table: true
 :END:
 **

@@ -1,7 +1,7 @@
 * 本周工作总结
 :PROPERTIES:
 :END:
-** {{query (and (todo done) (between -7d today)(property user) [[工作日志]])}}
+** {{query (and (todo done) (between -7d today)(sort-by) [[工作日志]])}}
 :PROPERTIES:
 :query-table: true
 :END:

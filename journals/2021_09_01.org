@@ -1,8 +1,10 @@
 * TODO 维护: 集团部打印机卡纸 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:user: ALL
 :END:
 * TODO 维护: 打印机装驱动 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:user: 程亦然
 :END:

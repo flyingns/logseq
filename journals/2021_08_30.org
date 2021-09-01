@@ -4,6 +4,8 @@
 :done: 1630320825727
 :todo: 1630319843259
 :organization: 广发银行
+:department: 
+:user: 
 :END:
 * DONE 送货: 夏普碳粉 2 支 :工作日志:
 :PROPERTIES:

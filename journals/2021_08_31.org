@@ -26,7 +26,8 @@ VGA 转 HDMI 转接头
 :organization: 移动淮安区
 :END:
 车桥 1 台4A 故障；淮安分公司集团部网络故障 2台。
-* TODO 送货: 6.5/3.5 音频线 :工作日志:
+* DONE 送货: 6.5/3.5 音频线 :工作日志:
 :PROPERTIES:
-:organization: 移动
+:organization: 移动市公司
+:done: 1630493262365
 :END:

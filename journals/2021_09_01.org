@@ -1,0 +1,5 @@
+* TODO 维护: 集团部打印机卡纸 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:END:
+*

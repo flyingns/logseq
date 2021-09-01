@@ -8,6 +8,11 @@
 :organization: 移动市公司
 :user: 程亦然
 :END:
+* TODO 拿货: 固态硬盘(金士顿 480G，3 件) :工作日志:
+:PROPERTIES:
+:organization: 捷
+:user: 
+:END:
 * TODO 维护: 笔记本装系统&恢复数据 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司

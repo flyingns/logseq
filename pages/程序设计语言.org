@@ -1,2 +1,7 @@
 * [[rust]]
+* [[ruby]]
+* [[perl]]
+* [[python]]
+* [[clojure]]
+* [[lisp]]/[[elisp]]
 *

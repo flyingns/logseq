@@ -37,11 +37,15 @@
 :PROPERTIES:
 :done: 1630320828815
 :organization: 银保监局
+:department: 
+:user: 
 :END:
 * DONE 进货: 5 口交换机，usb 无线网卡等 :工作日志:
 :PROPERTIES:
 :done: 1630320829999
 :organization: 财富广场
+:department: 
+:user: 
 :END:
 明日淮安区移动用。
 * CSDN 上可以用这样的技术赚钱！ :赚钱:

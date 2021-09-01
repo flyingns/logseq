@@ -1,36 +1,42 @@
-* TODO 维护: 打印机卡纸 :工作日志:
+* DONE 维护: 打印机卡纸 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: ALL
+:done: 1630494611434
 :END:
-* TODO 维护: 打印机装驱动 :工作日志:
+* DONE 维护: 打印机装驱动 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: 程亦然
+:done: 1630494612298
 :END:
-* TODO 拿货: 固态硬盘(金士顿 480G，3 件) :工作日志:
+* DONE 拿货: 固态硬盘(金士顿 480G，3 件) :工作日志:
 :PROPERTIES:
 :organization: 捷迅联
 :department: 
 :user: 
+:done: 1630494613162
 :END:
-* TODO 维护: 笔记本装系统&恢复数据 :工作日志:
+* DONE 维护: 笔记本装系统&恢复数据 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: 万兴
+:done: 1630494614193
 :END:
-* TODO 维护: 4A 故障 :工作日志:
+* DONE 维护: 4A 故障 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: 程晓丽
+:done: 1630494615146
 :END:
-* TODO 维护: erp 故障，重装系统 :工作日志:
+* DONE 维护: erp 故障，重装系统 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 财务部
 :user: 刘若田
+:done: 1630494616283
 :END:

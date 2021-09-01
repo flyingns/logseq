@@ -1,18 +1,24 @@
-* DONE 维护: 集团部打印机故障 :工作日志:
+* DONE 维护: 打印机故障 :工作日志:
 :PROPERTIES:
-:organization: 移动市公司
 :done: 1630406970005
+:organization: 移动市公司
+:department: 集团部
+:user: 
 :END:
 * DONE 送货: 综合部 :工作日志:
 :PROPERTIES:
-:organization: 移动市公司
 :done: 1630406970902
+:organization: 移动市公司
+:department: 综合部
+:user: 
 :END:
 绿联 USB HUB 1 件；tp usb 无线网卡 1 件。
 * DONE 拿货: VGA 转 HDMI 转接头 :工作日志:
 :PROPERTIES:
-:organization: 三益
 :done: 1630406972086
+:organization: 三益
+:department: 
+:user: 刘若田
 :END:
 * DONE 送货: 综合部 :工作日志:
 :PROPERTIES:

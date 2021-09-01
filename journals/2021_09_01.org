@@ -25,6 +25,12 @@
 * TODO 维护: 4A 故障 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
-:department: 
+:department: 集团部
 :user: 程晓丽
+:END:
+* TODO 维护: erp 故障，重装系统 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 财务部
+:user: 刘若田
 :END:

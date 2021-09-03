@@ -12,7 +12,13 @@
 :END:
 * TODO 送货: 碳粉 :工作日志:
 :PROPERTIES:
-:organization: 博律必
+:organization: 博物馆
+:department: 
+:user: 
+:END:
+* TODO 拿货: 內存条、碳粉等 :工作日志:
+:PROPERTIES:
+:organization: 
 :department: 
 :user: 
 :END:

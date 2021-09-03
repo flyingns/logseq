@@ -4,3 +4,9 @@
 :department: 市场部
 :user: 李晶
 :END:
+* TODO 维护: 电脑故障查询 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 品管
+:user: 
+:END:

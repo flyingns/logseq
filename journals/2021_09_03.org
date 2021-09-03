@@ -1,0 +1,6 @@
+* TODO 维护: 电脑外呼系统安装设置 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 
+:user: 
+:END:

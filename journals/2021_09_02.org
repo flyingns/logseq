@@ -7,6 +7,12 @@
 * TODO 维护: 电脑故障查询 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
-:department: 品管
+:department: 品管部
+:user: 姚远
+:END:
+* TODO 送货: 碳粉 :工作日志:
+:PROPERTIES:
+:organization: 博律必
+:department: 
 :user: 
 :END:

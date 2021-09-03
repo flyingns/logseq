@@ -1,10 +1,10 @@
-* TODO 维护: 电脑外呼系统安装设置 :工作日志:
+* DONE 维护: 电脑外呼系统安装设置 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 市场部
 :user: 李晶
 :END:
-* TODO 维护: 打印机换鼓、维护 :工作日志:
+* DONE 维护: 打印机换鼓、维护 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部

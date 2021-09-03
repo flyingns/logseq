@@ -30,7 +30,13 @@
 :END:
 * TODO 维护: 网络故障查询 :工作日志:
 :PROPERTIES:
-:organization: 
-:department: 
+:organization: 移动市公司
+:department: 市场部
+:user: 
+:END:
+* TODO 维护: 电脑办公系统设置 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 集团部
 :user: 
 :END:

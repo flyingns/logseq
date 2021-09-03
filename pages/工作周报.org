@@ -1,7 +1,9 @@
-* 本周工作总结
 :PROPERTIES:
 :id: 613219a8-cb3b-43b6-9bca-bee1d94286cc
 :END:
+本周工作总结
+#+ALIAS: mlm
+
 ** {{query (and (todo done) (between -7d today) [[工作日志]])}}
 :PROPERTIES:
 :query-table: true

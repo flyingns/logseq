@@ -18,7 +18,13 @@
 :END:
 * TODO 拿货: 內存条、碳粉等 :工作日志:
 :PROPERTIES:
-:organization: 
+:organization: 财富广场
+:department: 
+:user: 
+:END:
+* TODO 维护: 安装內存条 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
 :department: 
 :user: 
 :END:

@@ -7,6 +7,12 @@
 * TODO 维护: 外呼系统故障 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
+:department: 市场部
+:user: 李晶
+:END:
+* TODO 维护: 新来组经理无网络 :工作日志:
+:PROPERTIES:
+:organization: 移动
 :department: 
 :user: 
 :END:

@@ -1,6 +1,12 @@
 * TODO 维护: 广告播放主机电脑无法启动 :工作日志:
 :PROPERTIES:
-:organization: 
+:organization: 移动淮安区
+:department: 综合部
+:user: 白杨
+:END:
+* TODO 维护: 外呼系统故障 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
 :department: 
 :user: 
 :END:

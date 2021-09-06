@@ -23,4 +23,10 @@
 :department: 人力资源部
 :user: 
 :END:
-*
+* TODO 维护: 办理中信宽带移机 :工作日志:
+:PROPERTIES:
+:organization: 中信银行
+:department: 
+:user: 
+:END:
+送给客户用的

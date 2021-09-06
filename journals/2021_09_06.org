@@ -12,6 +12,13 @@
 :END:
 * TODO 维护: 打印机换粉 :工作日志:
 :PROPERTIES:
+:organization: 移动市公司
+:department: 财务部
+:user: 
+:END:
+型号不匹配，需加工一下。
+* TODO 维护:  :工作日志:
+:PROPERTIES:
 :organization: 
 :department: 
 :user: 

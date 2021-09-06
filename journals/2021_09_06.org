@@ -17,9 +17,10 @@
 :user: 
 :END:
 型号不匹配，需加工一下。
-* TODO 维护:  :工作日志:
+* TODO 维护: 系统故障，重装系统 :工作日志:
 :PROPERTIES:
-:organization: 
-:department: 
+:organization: 移动市公司(淮阴区点)
+:department: 人力资源部
 :user: 
 :END:
+*

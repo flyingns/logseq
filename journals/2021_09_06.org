@@ -1,36 +1,36 @@
-* TODO 维护: 新电脑安装设置 :工作日志:
+* DONE 维护: 新电脑安装设置 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: 王蓉
 :END:
-* TODO 维护: 4A 故障 :工作日志:
+* DONE 维护: 4A 故障 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 集团部
 :user: 程晓丽
 :END:
-* TODO 维护: 打印机换粉 :工作日志:
+* DONE 维护: 打印机换粉 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 财务部
 :user: 
 :END:
 型号不匹配，需加工一下。
-* TODO 维护: 系统故障，重装系统 :工作日志:
+* DONE 维护: 系统故障，重装系统 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司(淮阴区点)
 :department: 人力资源部
 :user: 
 :END:
-* TODO 维护: 办理中信宽带移机 :工作日志:
+* DONE 维护: 办理中信宽带移机 :工作日志:
 :PROPERTIES:
 :organization: 中信银行
 :department: 
 :user: 
 :END:
 送给客户用的宽带，换人换地方。
-* TODO 维护: 打印机卡纸、乱码 :工作日志:
+* DONE 维护: 打印机卡纸、乱码 :工作日志:
 :LOGBOOK:
 CLOCK: [2021-09-06 Mon 23:12]
 :END:
@@ -39,9 +39,9 @@ CLOCK: [2021-09-06 Mon 23:12]
 :department: 集团部
 :user: 
 :END:
-* TODO 维护: 系统故障，重装系统 :工作日志:
+* DONE 维护: 系统故障，重装系统 :工作日志:
 :PROPERTIES:
-:organization: 
-:department: 
-:user: 
+:organization: 移动市公司
+:department: 集团部
+:user: 顾园园
 :END:

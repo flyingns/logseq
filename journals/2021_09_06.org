@@ -29,4 +29,10 @@
 :department: 
 :user: 
 :END:
-送给客户用的
+送给客户用的宽带，换人换地方。
+* TODO 维护: 打印机卡纸、乱码 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 
+:user: 
+:END:

@@ -1,0 +1,7 @@
+* TODO 维护: 新电脑安装设置 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 集团部
+:user: 王蓉
+:END:
+*

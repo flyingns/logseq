@@ -31,8 +31,17 @@
 :END:
 送给客户用的宽带，换人换地方。
 * TODO 维护: 打印机卡纸、乱码 :工作日志:
+:LOGBOOK:
+CLOCK: [2021-09-06 Mon 23:12]
+:END:
 :PROPERTIES:
 :organization: 移动市公司
+:department: 集团部
+:user: 
+:END:
+* TODO 维护: 系统故障，重装系统 :工作日志:
+:PROPERTIES:
+:organization: 
 :department: 
 :user: 
 :END:

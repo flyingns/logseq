@@ -5,4 +5,9 @@
 :user: 倪维维
 :END:
 一上午都在干这傻B事。
-* /
+* TODO 拿货: 交换机、无线路由器等 :工作日志:
+:PROPERTIES:
+:organization: 三
+:department: 
+:user: 
+:END:

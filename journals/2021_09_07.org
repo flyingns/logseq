@@ -7,7 +7,8 @@
 一上午都在干这傻B事。
 * TODO 拿货: 交换机、无线路由器等 :工作日志:
 :PROPERTIES:
-:organization: 三
+:organization: 三益
 :department: 
 :user: 
 :END:
+5 口交换机 1 件(移动市场部)；无线路由器 1 件(中信花漾城)。

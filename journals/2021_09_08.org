@@ -41,3 +41,12 @@
 :department: 人力资源部
 :user: 赵丹
 :END:
+* DOING 送货: 小键盘 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 市场部
+:user: 李蕙如
+:END:
+:LOGBOOK:
+CLOCK: [2021-09-08 Wed 21:39]
+:END:

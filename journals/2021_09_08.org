@@ -4,4 +4,10 @@
 :department: 
 :user: 
 :END:
-*
+品管部用
+* TODO 维护: 装网卡 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 
+:user: 
+:END:

@@ -11,4 +11,9 @@
 :department: 品管部
 :user: 
 :END:
-*
+* TODO 维护: 网络故障 :工作日志:
+:PROPERTIES:
+:organization: 移动市公司
+:department: 集团部
+:user: 
+:END:

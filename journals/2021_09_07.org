@@ -12,19 +12,19 @@
 :user: 
 :END:
 5 口交换机 1 件(移动市场部)；无线路由器 1 件(中信花漾城)。
-* TODO 维护: 增设一工位网线 :工作日志:
+* DONE 维护: 增设一工位网线 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 市场部
 :user: 
 :END:
-* TODO 维护: 新装电脑 :工作日志:
+* DONE 维护: 新装电脑 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 品管部
 :user: 徐艳
 :END:
-* TODO 维护: 系统故障，重装系统 :工作日志:
+* DONE 维护: 系统故障，重装系统 :工作日志:
 :PROPERTIES:
 :organization: 移动市公司
 :department: 品管部
